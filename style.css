@@ -22,6 +22,7 @@ body {
   height: 48px;
   border: 1px solid whitesmoke;
   font-size: 30px;
+  box-sizing: border-box;
 }
 
 .tile-clicked {
